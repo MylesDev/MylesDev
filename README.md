@@ -45,7 +45,7 @@ Tools & technologies I have worked with: <br>
 
 -   <a href = "https://managemy.lease">managemy.lease</a> bringing renting into the 21st century
 
-### 🦩 Fun facts
+### 💡 Fun facts
 
 -   I love going on cruises
 -   I have been inside The Great Pyramid of Giza
