@@ -49,7 +49,7 @@ Tools & technologies I have worked with: <br>
 
 -   I love going on cruises
 -   I have been inside The Great Pyramid of Giza
--   I took part in the <a href="https://bugbust.aws/">AWS BugBust event</a>, and within the last 12 hours fixed 111 bugs, coming in the top 100 after 600+ developers. 
+-   I took part in the <a href="https://bugbust.aws/">AWS BugBust event</a>, and within the last 12 hours fixed 111 bugs, coming in the top 100 of 600+ developers. 
 
 ### ☎️ Get in touch
 
