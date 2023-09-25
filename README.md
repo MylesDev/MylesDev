@@ -1,11 +1,4 @@
-<h2 align="center"> Hi! I'm Myles. 👋 <br/> </h2>
-<p align="center">
-  <img width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=MylesDev&show_icons=true&hide_border=false&count_private=true"/>
-  <p align="center">
-    <a href="https://twitter.com/MylesDev/"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/MylesDev?label=Follow%20me%20on%20Twitter%21&style=flat"></a>
-    <a href="https://github.com/MylesDev/"><img alt="GitHub followers" src="https://img.shields.io/github/followers/MylesDev?label=Follow%20me%20on%20GitHub%21&style=flat"></a>
-  </p>
-</p>
+<h3 align="center"> Hi! I'm Myles. 👋 <br/> </h3>
 
 ### ⚡ Technologies
 
